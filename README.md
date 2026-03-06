@@ -1,5 +1,3 @@
-# DIS
-
 <p align="center">
   <code>[ DIS: ACCESSING CORE MEMORY... ]</code><br>
   <code>SYSTEM STATUS: DISCONNECTED</code>
