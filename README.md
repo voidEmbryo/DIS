@@ -64,6 +64,5 @@ FLOOR TILES    ABSENT
 
 `[ . . . ]`
 
-**f a l l i n g _ d e e p e r**
 
 </div>
